@@ -70,7 +70,6 @@ git commit -m "Primer commit"
    git reset images/*.gif
    git s
 
-
    ```
    ![image](https://github.com/user-attachments/assets/d8f43b9f-e4c8-45b3-8045-fcc45e070548)
 
@@ -79,3 +78,10 @@ git commit -m "Primer commit"
 #### **4. Sube el repositorio Git Local al Remoto**
 
 1. Ya sabes como hacerlo, si no te acuerdas tienes aquí la [guía de comandos](https://github.com/VelezBeatriz/ITB-M08-DAW1/blob/main/README.md)
+
+   ```bash
+   git remote add AlarconDaniPractExtra2425 https://github.com/Dani-Alarcon/AlarconDaniPractExtra2425.git
+
+   ```
+   ![image](https://github.com/user-attachments/assets/556bdff0-10b9-4c4e-b150-f773ba19fcc6)
+
